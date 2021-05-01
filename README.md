@@ -22,7 +22,6 @@ Below is a sampling of the data we were able to analyze:
 ![Graph](Graphs/total_units.png)
 ![Graph2](Graphs/total_units_month.png)
 
-![Graph3](Graphs/tents_sleeping.png)
 
 ## Post Mortem
 
